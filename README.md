@@ -25,3 +25,8 @@ A new window visualizes the maze:
 Based on AI algorithms taught in the 5th Semester AI Lab (BFS Implementation)
 Created by : D.Sharikaa
 REg.no:2117240070296
+
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/a07048cd-8d47-45a3-9299-fa71f03872bd)
